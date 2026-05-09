@@ -1,1 +1,1 @@
-python,devops,AI-ML 
+Python,DevOps,AI-Ml 
