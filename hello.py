@@ -1,1 +1,1 @@
-print("Hello KSIT Git Workshop") 
+printf("Hello KSit gay workshop")
